@@ -1,0 +1,40 @@
+.margin {
+    margin-left: 1000px;
+}
+.bla {background-color: blue;}
+
+.margin-left {
+    margin-left: 500px;
+    margin-top: 100px;
+}
+.margin-again {
+    margin-left: 410px;
+}
+
+.grey {
+    background-color: grey;
+    margin-top: 200px;
+}
+
+.margin-leftie {
+    margin-left: 10px;
+}
+.margin-new {
+    margin-left: 500px;
+}
+.margin-middle {
+    margin-left: 150px;
+}
+.margin-right {
+    margin-left: 200px;
+}
+a:link {
+    color: black;
+    text-decoration: none;
+    }
+    a:visited {
+        color: black;
+        }
+        a:hover {
+            text-decoration: underline;
+            }
